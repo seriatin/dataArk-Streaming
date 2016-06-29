@@ -10,4 +10,5 @@ target/
 .scala_dependencies
 .worksheet
 
+.idea/
 
